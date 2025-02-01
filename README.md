@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @RomanMachala and currently I'm 21 years old.
+- 👋 Hi, I'm @RomanMachala and currently I'm 22 years old.
 - 👀 I'm interested in speech processing, especially in speech synthesis.
 - 🌱 I'm currently learning everything there is about speech synthesis, spoofing attacks and deepfakes in general.
 - 📫 You can reach out to me either in person (if you recognize me that is) or bz using some of my linked social media (prefered choice is by instagram).
