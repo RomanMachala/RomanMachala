@@ -1,10 +1,13 @@
-- 👋 Hi, I'm @RomanMachala and currently I'm 22 years old.
-- 👀 I'm interested in speech processing, especially in speech synthesis.
-- 🌱 I'm currently learning everything there is about speech synthesis, spoofing attacks and deepfakes in general.
-- 📫 You can reach out to me either in person (if you recognize me that is) or bz using some of my linked social media (prefered choice is by instagram).
-- ⚡ Fun fact: I'm very active in sports and I had the oportunity to not once but twice to play on an international tournament in footbal in Spain. We actually ended up 2nd once!
+Hey! My name is Roman Machala.
 
-<!---
-RomanMachala/RomanMachala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm 22 years old, currently finishing my Bachelor's degree at FIT BUT in Brno.
+I'm interested in solving interesting programming puzzles/problems and getting better altogether with it.
+My future plans are finihsing my studies with Master's degrre, although am not sure still which major I should pick (so many interesting choices).
+In my spare time I like to workout, chill out on some video games with some friends or look at some programming problems.
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/roman_machala?theme=dark&font=Paprika)
+
+
+
+You can cantact me through instagram or facebook if you want!
